@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:26.543561
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 觀無量壽經義疏
 #+PROPERTY: CBETA_ID T37n1752
 #+PROPERTY: ID KR6f0075
@@ -14,7 +14,7 @@
 ¶
 No. 1752 [cf. No. 365]¶
 
-無量壽經序¶
+* 無量壽經序¶
 ¶
 胡吉藏撰¶
 
